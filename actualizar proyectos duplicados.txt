@@ -1,0 +1,6 @@
+1- made changes in unity 
+2-save
+3-commit changes in GTDesktop
+4-Pull or push (just in my branch).
+Note ingnore file if a have
+an error.
